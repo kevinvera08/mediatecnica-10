@@ -19,7 +19,7 @@ class Program
     {
         // variables
         int juguestesEncontrados = 0;
-        string[] ubicacionesCorrectas = { "caja", "armario", "debajo de la cama", "dentro del closet" };
+        string[] ubicacionesCorrectas = { "caja de zapatos", "sotano", "habitacion de los niños" };
 
         Console.WriteLine("¡Bienvenido al juego de las escondidas de los juguetes de Andy!");
         Console.WriteLine("Los lugares en los que puedes buscar son:");
